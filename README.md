@@ -9,4 +9,4 @@ This project is part of The Odin Project curriculum. It involves creating a simp
 - Using images in HTML
 - Structuring content with headings, lists, and paragraphs
 
-* [Live Privew](https://sakibchy.github.io/odin-recipes/)
+* [Live Preview](https://sakibchy.github.io/odin-recipes/)
